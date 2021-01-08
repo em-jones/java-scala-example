@@ -1,0 +1,51 @@
+2021.01.07 19:00:36 INFO  Started: Metals version 0.9.8 in workspace '/home/em/Downloads/mixed' for client vscode.
+2021.01.07 19:00:37 INFO  time: initialize in 1.31s
+2021.01.07 19:00:38 WARN  Build server is not auto-connectable.
+2021.01.07 19:00:38 WARN  no build tool detected in workspace '/home/em/Downloads/mixed'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 19:00:38 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/main/scala/cloud/emtech/job/app/App.scala
+2021.01.07 19:00:41 INFO  no build target: using presentation compiler with only scala-library
+Jan 07, 2021 7:00:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2021.01.07 19:00:44 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/main/scala/cloud/emtech/job/app/App.scala
+2021.01.07 19:00:47 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/main/scala/cloud/emtech/job/app/MessageUtils.scala
+2021.01.07 19:00:50 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/main/scala/cloud/emtech/job/app/MessageUtils.scala
+2021.01.07 19:01:00 WARN  no build target for: /home/em/Downloads/mixed/locationimport/src/main/scala/cloud/emtech/job/app/App.scala
+2021.01.07 19:01:06 WARN  no build target for: /home/em/Downloads/mixed/locationimport/src/main/scala/cloud/emtech/job/app/App.scala
+2021.01.07 19:01:09 WARN  no build target for: /home/em/Downloads/mixed/locationimport/src/main/scala/cloud/emtech/job/app/MessageUtils.scala
+2021.01.07 19:01:14 WARN  no build target for: /home/em/Downloads/mixed/locationimport/src/main/scala/cloud/emtech/job/app/MessageUtils.scala
+2021.01.07 19:02:02 WARN  no build target for: /home/em/Downloads/mixed/locationimport/src/main/scala/cloud/emtech/job/locationimport/MessageUtils.scala
+2021.01.07 19:02:02 WARN  no build target for: /home/em/Downloads/mixed/locationimport/src/main/scala/cloud/emtech/job/locationimport/App.scala
+2021.01.07 19:02:17 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/main/scala/cloud/emtech/job/reporting/App.scala
+2021.01.07 19:02:17 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/main/scala/cloud/emtech/job/reporting/MessageUtils.scala
+2021.01.07 19:02:29 WARN  no build target for: /home/em/Downloads/mixed/locationimport/src/test/scala/cloud/emtech/job/app/MessageUtilsTest.scala
+2021.01.07 19:02:46 WARN  no build target for: /home/em/Downloads/mixed/locationimport/src/test/scala/cloud/emtech/job/app/MessageUtilsTest.scala
+2021.01.07 19:02:51 WARN  no build target for: /home/em/Downloads/mixed/locationimport/src/test/scala/cloud/emtech/job/locationimport/MessageUtilsTest.scala
+2021.01.07 19:03:00 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/test/scala/cloud/emtech/job/reporting/MessageUtilsTest.scala
+2021.01.07 19:03:04 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/test/scala/cloud/emtech/job/reporting/MessageUtilsTest.scala
+2021.01.07 19:07:08 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/main/scala/cloud/emtech/job/reporting/App.scala
+2021.01.07 19:07:11 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/main/scala/cloud/emtech/job/reporting/App.scala
+2021.01.07 19:07:37 WARN  no build tool detected in workspace '/home/em/Downloads/mixed'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 19:07:37 WARN  no build tool detected in workspace '/home/em/Downloads/mixed'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 19:07:40 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/main/scala/cloud/emtech/job/reporting/App.scala
+2021.01.07 19:07:46 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/main/scala/cloud/emtech/job/reporting/App.scala
+2021.01.07 19:10:11 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/main/scala/cloud/emtech/job/reporting/App.scala
+Jan 07, 2021 7:11:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2021.01.07 19:24:15 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/main/scala/cloud/emtech/job/reporting/App.scala
+2021.01.07 19:24:19 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/main/scala/cloud/emtech/job/reporting/App.scala
+2021.01.07 19:24:57 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/main/scala/cloud/emtech/job/reporting/App.scala
+2021.01.07 19:25:22 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/main/scala/cloud/emtech/job/reporting/App.scala
+2021.01.07 19:25:56 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/main/scala/cloud/emtech/job/reporting/App.scala
+2021.01.07 19:26:17 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/main/scala/cloud/emtech/job/reporting/App.scala
+2021.01.07 19:43:45 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/main/scala/cloud/emtech/job/reporting/App.scala
+2021.01.07 19:44:01 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/main/scala/cloud/emtech/job/reporting/App.scala
+2021.01.07 20:09:45 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/test/scala/cloud/emtech/job/reporting/AppTest.scala
+2021.01.07 20:10:02 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/test/scala/cloud/emtech/job/reporting/AppTest.scala
+2021.01.07 20:10:20 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/test/scala/cloud/emtech/job/reporting/AppTest.scala
+2021.01.07 20:10:35 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/test/scala/cloud/emtech/job/reporting/AppTest.scala
+2021.01.07 20:10:53 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/test/scala/cloud/emtech/job/reporting/AppTest.scala
+2021.01.07 20:13:13 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/test/scala/cloud/emtech/job/reporting/AppTest.scala
+2021.01.07 20:13:30 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/test/scala/cloud/emtech/job/reporting/AppTest.scala
+2021.01.07 20:13:51 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/test/scala/cloud/emtech/job/reporting/AppTest.scala
+2021.01.07 20:14:25 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/test/scala/cloud/emtech/job/reporting/AppTest.scala
+2021.01.07 20:14:34 WARN  no build target for: /home/em/Downloads/mixed/reporting/src/test/scala/cloud/emtech/job/reporting/AppTest.scala
